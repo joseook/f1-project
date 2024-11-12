@@ -11,6 +11,10 @@ The **F1 Project** is a mobile application built using **Expo** and **React Nati
 
 This app fetches live data about F1 drivers, races, tracks, and more, providing an immersive experience for users interested in motorsports. It serves as an educational tool to study how to work with APIs and mobile application development.
 
+## Preview 
+![F1 Project Preview](./assets/f1-preview01.jpg)
+![F1 Project Preview](./assets/f1-preview02.jpg)
+
 ## Features
 
 - **API Integration**: Utilizes the **api-sports.io** API to fetch real-time data about Formula 1 drivers, tracks, and race details.
@@ -37,7 +41,7 @@ To get started with the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/f1-project.git
+   git clone https://github.com/joseook/f1-project.git
    cd f1-project
    ```
 
