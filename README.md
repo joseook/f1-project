@@ -1,6 +1,3 @@
-Aqui está a versão atualizada do seu `README.md`, com base nas novas informações que você forneceu:
-
-### `README.md` atualizado:
 
 ```markdown
 # F1 Project
@@ -11,9 +8,13 @@ The **F1 Project** is a mobile application built using **Expo** and **React Nati
 
 This app fetches live data about F1 drivers, races, tracks, and more, providing an immersive experience for users interested in motorsports. It serves as an educational tool to study how to work with APIs and mobile application development.
 
-## Preview 
-![F1 Project Preview](./assets/f1-preview01.jpg)
-![F1 Project Preview](./assets/f1-preview02.jpg)
+## Preview
+
+### Image 1
+![F1 Preview 01](assets/f1-preview01.jpg)
+
+### Image 2
+![F1 Preview 02](assets/f1-preview02.jpg)
 
 ## Features
 
@@ -51,14 +52,14 @@ To get started with the project locally, follow these steps:
    ```
 
 3. Run the project in development mode:
-    - For Android:
-      ```bash
-      expo start --android
-      ```
-    - For iOS:
-      ```bash
-      expo start --ios
-      ```
+   - For Android:
+     ```bash
+     expo start --android
+     ```
+   - For iOS:
+     ```bash
+     expo start --ios
+     ```
 
 4. Or for web:
    ```bash
@@ -85,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Expo** and **React Native** for enabling cross-platform mobile app development.
 - **React Navigation** for managing navigation in the app.
 - **TypeScript** for maintaining a type-safe codebase.
-
+```
