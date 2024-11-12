@@ -11,10 +11,10 @@ This app fetches live data about F1 drivers, races, tracks, and more, providing 
 ## Preview
 
 ### Image 1
-![F1 Preview 01](assets/f1-preview01.jpg)
+![F1 Preview 01](./assets/f1-preview01.jpg)
 
 ### Image 2
-![F1 Preview 02](assets/f1-preview02.jpg)
+![F1 Preview 02](./assets/f1-preview02.jpg)
 
 ## Features
 
