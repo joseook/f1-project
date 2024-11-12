@@ -65,7 +65,7 @@ To get started with the project locally, follow these steps:
 
 The project includes an APK build for Android that can be installed directly on devices. You can download the APK from the following link:
 
-[Download APK](https://expo.dev/accounts/joseok/projects/f1-project/builds/a48f6294-0a9f-482d-9579-81900bab5528)
+[Download APK](https://github.com/joseook/f1-project/releases)
 
 ## Contributing
 
